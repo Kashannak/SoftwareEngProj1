@@ -1,5 +1,5 @@
 # SoftwareEngProj1
-Project 1
+Project 1 Kashana Green
  HairByBri- THE BOOKING SITE FOR THE REPUTABLE HAIRSTYLIST
 
 Product Vision Statement:
