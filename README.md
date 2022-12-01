@@ -9,4 +9,3 @@ HairByBri is a unique hair care booking site that focus on making sure our custo
 who only have social media pages that you can direct message them through to book an service needed.
 With the HairByBri booking site you will be able to see all the services offered with pictures, the cost of the service and the time it takes to complete your selected serive.
 
-BY:
